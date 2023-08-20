@@ -1,0 +1,29 @@
+[
+    {
+        "productId": 1,
+        "manufacturer": "A1",
+        "sku": "B1",
+        "upc": "C1",
+        "pricePerUnit": "D1",
+        "quantityOnHand": 20,
+        "productName": "E1"
+    },
+    {
+        "productId": 2,
+        "manufacturer": "A2",
+        "sku": "B2",
+        "upc": "C2",
+        "pricePerUnit": "D2",
+        "quantityOnHand": 20,
+        "productName": "E2"
+    },
+    {
+        "productId": 3,
+        "manufacturer": "A3",
+        "sku": "B3",
+        "upc": "C3",
+        "pricePerUnit": "D3",
+        "quantityOnHand": 20,
+        "productName": "E3"
+    }
+]
